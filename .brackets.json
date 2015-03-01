@@ -1,0 +1,4 @@
+{
+    "sass.compiler": "ruby",
+    "sass.compass": true
+}
